@@ -4,7 +4,7 @@
 - 💞️ We're looking to collaborate on space
 - 📫 give a look to our website
 - 😄 Pronouns: We
-- ⚡ Fun fact: we are agroup of students
+- ⚡ Fun fact: we are a group of students
 
 <!---
 Mooncampprojectimmacpau/Mooncampprojectimmacpau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
