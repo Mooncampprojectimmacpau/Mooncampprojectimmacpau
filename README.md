@@ -2,7 +2,7 @@
 - 👀 We're interested in space 🚀
 - 🌱 We're currently learning how to sent humanity to space
 - 💞️ We're looking to collaborate on space
-- 📫 give a look to our website
+- 📫 give a look to our website: https://mooncampprojectimmacpau.github.io/index.html
 - 😄 Pronouns: We
 - ⚡ Fun fact: we are a group of students
 
